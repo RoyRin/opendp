@@ -1,7 +1,7 @@
 # OpenDP
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C3.8%20%7C%203.9-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/)
 ![ci tests](https://github.com/opendp/opendp/actions/workflows/smoke-test.yml/badge.svg)
 
 OpenDP is a modular library of statistical algorithms that adhere to the definition of [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy). It can be used to build applications of privacy-preserving computations, using a number of different models of privacy. OpenDP is implemented in Rust, with bindings for easy use from Python.
